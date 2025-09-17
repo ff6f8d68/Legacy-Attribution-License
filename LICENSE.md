@@ -2,7 +2,7 @@
 
 # Legacy Attribution License
 
-**Copyright (c) \2025 \crafter inc.**
+**Copyright (c) 2025 crafter inc.**
 
 ### 1. Grant of Rights
 
