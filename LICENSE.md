@@ -2,8 +2,6 @@
 
 # Legacy Attribution License
 
-**Copyright (c) 2025 crafter inc.**
-
 ### 1. Grant of Rights
 
 Permission is granted to **redistribute this software, in source or compiled form**, under the strict terms of this license. Any redistribution not fully complying with these terms is **expressly prohibited**.
