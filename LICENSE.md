@@ -26,9 +26,7 @@ Attribution must appear in:
 Obfuscation, removal, or concealment of attribution is strictly forbidden.
 
 ### 3. Modification and Derivative Works
-
-* Modifications, adaptations, or derivative works of this software are **prohibited** unless explicitly authorized in writing by the current owner.
-* Any authorized modifications remain subject to **all attribution requirements**.
+* All modifications remain subject to **all attribution requirements**.
 * Redistribution of derivative works is allowed **only if all prior owners, including the original author and any authorized modifiers, are fully credited**.
 
 ### 4. Commercial Use
