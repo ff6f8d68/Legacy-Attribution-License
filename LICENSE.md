@@ -59,8 +59,6 @@ Redistributors are responsible for complying with **all applicable laws, regulat
 Violation of any terms of this license—including but not limited to:
 
 * Failure to provide full attribution
-* Unauthorized modifications
-* Unauthorized commercial, network, or derivative use
 
 constitutes a breach of this license and may result in legal action.
 
